@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+kafka-python
+opencv-python-headless
+numpy
+mediapipe
+ultralytics
+python-multipart
+streamlit
+pandas
+altair
